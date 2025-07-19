@@ -26,7 +26,7 @@ A simple React + Vite application that allows searching for customer information
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/bank-insight-frontend.git
+git clone https://github.com/ajogious/bank_insight_frontend.git
 cd bank-insight-frontend
 2. Install Dependencies
 npm install
