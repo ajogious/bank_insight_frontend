@@ -1,13 +1,13 @@
 # 📱 Bank Insight – Frontend
 
-A simple React + Vite application that allows searching for customer information using **BVN** or **Phone Number**. It connects to a Spring Boot backend to fetch the data.
+Bank Insight is a simple React + Vite application that allows searching for customer information using **BVN** or **Phone Number**. It connects to a Spring Boot backend to fetch the data.
 
 ---
 
 ## 🚀 Features
 
 - Search by **BVN** or **Phone Number**
-- Displays: First Name, Last Name, Other Name, Gender, Date of Birth, Email, BVN, Phone Number, Address, Account Type, Status (Active/Dormant), and Balance
+- Displays: First Name, Last Name, Other Name, Gender, Date of Birth, Email, BVN, Phone Number, Address, Account Type, Status (Active/Dormant), Account Open, and Balance
 - Clean UI with **Bootstrap**
 - Handles loading and error states
 
